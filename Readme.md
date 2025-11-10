@@ -19,7 +19,7 @@ You will also need a hugging face token which you can easliy find on your huggin
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/kiritoInd/RAG_over_LLM_for_pdf_ChatBot.git
+    git clone https://github.com/SakshiScriptsX/Retrieval-Augmented-Generation-with-LLM-s-and-Flask-on-PDF.git  
     cd ChatBot-With-LangChain
     ```
 
